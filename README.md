@@ -8,7 +8,7 @@ This project is executed at the [Network Security group](https://netsec.ethz.ch/
 
 If you want to submit feedback or have questions about the project, feel free to get in touch with the [project lead](https://people.inf.ethz.ch/cgloor) directly or to fill out our [form](/pages/feedback/feedback.html) .
 
-(potential) participants of the Android user study may download the concise information sheet [here](/pages/study/information_sheet.pdf).
+(potential) participants of the Android user study may download the concise information sheet [here](/pdfs/Information_sheet.pdf).
 
 ##  **Table of contents**
 
