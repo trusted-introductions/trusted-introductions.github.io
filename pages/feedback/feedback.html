@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="feedback.css">
+</head>
+<body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script type="text/javascript">var submitted=false;</script>
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $('#gform').on('click', '#submit', function(e) {
+      $('#gform').fadeOut(2000);
+      $('#gform').promise().done(function(){
+        $('#thanks').css("visibility", "visible");
+      });
+    });
+  });
+  </script>
+  <div id="thanks" class="subtitle" style="visibility: hidden;">Thank you! Your message has successfully been transmitted to the PI.</div>
+<form name="gform"  id="gform" class="login-form" enctype="text/plain" action="https://docs.google.com/forms/u/0/d/1HDPE26Gynb0TgI1XPiMkEnKnK5tv2KH_QH1GjLDb5fg/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+  <div class="title"><h3>Leave us Feedback, Questions, Suggestions...</h3></div>
+  <div class="subtitle">Enter your feedback for the Android Trusted-Introductions for the Signal Messenger prototype. The data will be shared with the project lead via. <u>Google forms</u>.</div>
+  <div class="input-container ic1">
+    <input name="entry.1578268213" id="entry.1578268213" class="input" type="text" placeholder=" " maxlength="50"/>
+    <div class="cut"></div>
+    <label for="entry.1578268213" class="placeholder">Name (optional)</label>
+  </div>
+  <div class="input-container ic2">
+  <input name="entry.580002845" id="entry.580002845" class="input" type="text" placeholder=" " maxlength="50"/>
+  <div class="cut"></div>
+  <label for="entry.580002845" class="placeholder">Email (optional)</label>
+  <div class="input-container ic2">
+    <input name="entry.1079824162" id="entry.1079824162" required="" class="input" type="text" placeholder=" " maxlength="750" size="750"/>
+    <div class="cut"></div>
+    <label for="entry.1079824162" class="placeholder">Message</label>
+  </div>
+  <button id="submit" class="submit" type="submit" value="Submit">Submit</button>
+</div>
+</form>
+
+  <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+</body>
+</html>
+
