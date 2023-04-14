@@ -32,6 +32,7 @@ If you want to submit feedback or have questions about the project, feel free to
       - [**Telemetry Server**](#telemetry-server)
     - [**Newest APK download \& Change Log**](#newest-apk-download--change-log)
       - [**Change Log**](#change-log)
+        - [**2.0.1:**](#201)
         - [**2.0.0:**](#200)
 
 
