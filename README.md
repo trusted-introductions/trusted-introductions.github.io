@@ -263,6 +263,9 @@ You can check which version of the Trusted Introductions APK you are currently r
 
 The commit history on Github has a more finegraned list of changes.
 
+##### **2.0.1:**
+- Adapted trusted introductions jobs to match new job datatype.
+
 ##### **2.0.0:**
 - Checking for stale introductions before updating on security nr. change.
 - Fixed erroneous datatype and removed unneccessary constraint in Introductions Database. **=> Requires a fresh installation instead of an upgrade for the changes to take effect (back up your data first).**
