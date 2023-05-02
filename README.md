@@ -32,6 +32,7 @@ If you want to submit feedback or have questions about the project, feel free to
       - [**Telemetry Server**](#telemetry-server)
     - [**Newest APK download & Change Log**](#newest-apk-download--change-log)
       - [**Change Log**](#change-log)
+        - [**2.1.1:**](#211)
         - [**2.1.0:**](#210)
         - [**2.0.2:**](#202)
         - [**2.0.1:**](#201)
@@ -265,6 +266,9 @@ You can check which version of the Trusted Introductions APK you are currently r
 #### **Change Log**
 
 The commit history on Github has a more finegraned list of changes.
+
+##### **2.1.1**
+- Backup file for trusted introduction data displays correct timestamp
 
 ##### **2.1.0:**
 - clarifying header on the screen for managing all introductions
