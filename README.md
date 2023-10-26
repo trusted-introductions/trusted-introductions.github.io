@@ -260,6 +260,8 @@ WIP
 
 ### **Newest APK download & Change Log**
 
+**The prototype is currently being restructured and the APK are thus out of date.**
+
 [APKs](https://polybox.ethz.ch/index.php/s/K9mgiDihWqj9dIC)
 
 You can check which version of the Trusted Introductions APK you are currently running by navigating to "Settings" -> "Help".
