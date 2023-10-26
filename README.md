@@ -255,8 +255,7 @@ When you install the modified Signal application you will be prompted to registe
 The pseudonym, and the salt will be listed in the applications help page, where you can also find the current version. 
 If you ever opt to terminate your involvement with the study, you may request the deletion of your data using this [form](/pages/study/delete_data_form.html). Please consider providing the reason for aborting the study. This helps us reason about missing datapoints and what biases it may introduce to our data. 
 
-Rest still TODO:
-WIP
+**This is still a work in progress and the APKs provided in the next section do not contain any telemetry and thus do not show this prompt during setup.**
 
 ### **Newest APK download & Change Log**
 
