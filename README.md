@@ -259,7 +259,7 @@ If you ever opt to terminate your involvement with the study, you may request th
 
 ### **Newest APK download & Change Log**
 
-**The prototype is currently being restructured and the APK are thus out of date.**
+**The prototype is currently being restructured and the APKs are thus out of date.**
 
 [APKs](https://polybox.ethz.ch/index.php/s/K9mgiDihWqj9dIC)
 
